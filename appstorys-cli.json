@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/appversal/appstorys-cli/releases/download/v0.1.0/appstorys-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "appstorys-cli.exe"
+            ],
+            "hash": "8e2f6d4d229d3010671a4f999b57ef72f260e8ec2141b5a47d3fdd74c35d1c22"
+        }
+    },
+    "homepage": "https://github.com/appversal/appstorys-cli",
+    "license": "MIT",
+    "description": "Finds, checks and fixes AppStorys SDK instrumentation in a mobile app"
+}
